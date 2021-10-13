@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>rpc-agent-simple</module>
+        <module>rpc-agent-dubbo</module>
     </modules>
 
     <properties>
