@@ -11,6 +11,19 @@
 
     <artifactId>rpc-agent-dubbo</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.gorden5566</groupId>
+            <artifactId>rpc-agent-server</artifactId>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.dubbo/dubbo -->
+        <dependency>
+            <groupId>org.apache.dubbo</groupId>
+            <artifactId>dubbo</artifactId>
+            <version>2.7.3</version>
+        </dependency>
+    </dependencies>
+
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
         <maven.compiler.target>8</maven.compiler.target>

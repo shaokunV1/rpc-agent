@@ -74,7 +74,7 @@ Open `demo.json` to see the config format
 	"method":"simple",
 	"params":[],
 	"port":1234,
-	"service":"com.gorden5566.demo.service.SimpleService",
+	"service":"",
 	"tag":""
 }
 ```
